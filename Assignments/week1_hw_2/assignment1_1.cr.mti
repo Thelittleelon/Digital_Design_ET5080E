@@ -1,0 +1,99 @@
+{E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/dmem.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/dmem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/BranchComp.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/BranchComp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BranchComp
+
+Top level modules:
+	BranchComp
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/alu32.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/alu32.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/PC.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/Imm_Gen.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/Imm_Gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Imm_Gen
+
+Top level modules:
+	Imm_Gen
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/mux2.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/mux2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/tb.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/RISC_V.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/RISC_V.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V
+
+Top level modules:
+	RISC_V
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/control_logic.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/control_logic.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_logic
+
+Top level modules:
+	control_logic
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/mux4.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/mux4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/regfile.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/datapath.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/adder.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/imem.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/EDABK/thiet ke so/single_line_riscv_linh/RISC_V single line/imem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}}

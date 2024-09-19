@@ -1,0 +1,264 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw
+vex1
+Z1 !s110 1726746704
+!i10b 1
+!s100 lnmf_Laf>X>o2=FbAzOh[2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWf^b0jRB?gTX<7C=k<3l20
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1726746624
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1.v
+!i122 18
+Z4 L0 1 13
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1726746704.000000
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vex1_tb
+R1
+!i10b 1
+!s100 SVLjCXl1E_:Ujb8bdTmJ=2
+R2
+IE??j8<OCTdG@keh?b]7<=2
+R3
+R0
+w1726626873
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1_tb.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1_tb.v
+!i122 19
+L0 2 38
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1_tb.v|
+!i113 1
+R7
+R8
+vfull_adder
+Z9 !s110 1726631906
+!i10b 1
+!s100 4NfOzG7a78@SoENB7dcM00
+R2
+I57E4_CJzXXzQhgN_GIiYY2
+R3
+R0
+w1726631886
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder.v
+!i122 16
+L0 1 10
+R5
+r1
+!s85 0
+31
+Z10 !s108 1726631906.000000
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder.v|
+!i113 1
+R7
+R8
+vfull_adder_tb
+R9
+!i10b 1
+!s100 7`N:7?:]XcL1^RobiM6_m1
+R2
+I6Rza7EHOBSG`izl37]6e@0
+R3
+R0
+w1726631878
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder_tb.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder_tb.v
+!i122 17
+L0 1 33
+R5
+r1
+!s85 0
+31
+R10
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/full_adder/full_adder_tb.v|
+!i113 1
+R7
+R8
+vhalf_adder
+Z11 !s110 1726631548
+!i10b 1
+!s100 ::dVTJAcCA1HA>C@_hB391
+R2
+I9@]NofXWT>[ReK=zSCVLj2
+R3
+R0
+w1726631534
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder.v
+!i122 14
+Z12 L0 1 9
+R5
+r1
+!s85 0
+31
+Z13 !s108 1726631548.000000
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder.v|
+!i113 1
+R7
+R8
+vhalf_adder_tb
+R11
+!i10b 1
+!s100 `z^B=b_FolW6hF5nOBGOZ2
+R2
+IBgI;emeRzP9zjRWAzK`012
+R3
+R0
+w1726631512
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder_tb.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder_tb.v
+!i122 15
+L0 2 24
+R5
+r1
+!s85 0
+31
+R13
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex3/half_adder/half_adder_tb.v|
+!i113 1
+R7
+R8
+vmajority
+Z14 !s110 1726629200
+!i10b 1
+!s100 lXTQj[H?]a]0<knKSHf_`2
+R2
+Iemh:GRmSPHOMZcC:n2iEN1
+R3
+R0
+w1726629126
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority.v
+!i122 6
+R4
+R5
+r1
+!s85 0
+31
+Z15 !s108 1726629200.000000
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority.v|
+!i113 1
+R7
+R8
+vmajority_tb
+R14
+!i10b 1
+!s100 []G@VBg:JPWRz3Uh9T<380
+R2
+I26I@3XYKfdS=l>BlH7DZ>3
+R3
+R0
+w1726629124
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority_tb.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority_tb.v
+!i122 7
+L0 2 28
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/majority_tb.v|
+!i113 1
+R7
+R8
+vmux2to1
+!s110 1726629998
+!i10b 1
+!s100 j5aVf@z`;RA98R:?[NNW31
+R2
+IF9SljjJMHPNEQIoRz[Tal0
+R3
+R0
+w1726629968
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1.v
+!i122 9
+R12
+R5
+r1
+!s85 0
+31
+!s108 1726629998.000000
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1.v|
+!i113 1
+R7
+R8
+vmux2to1_gate
+Z16 !s110 1726630895
+!i10b 1
+!s100 Z[8iU`THP_]gVDLjL^38c2
+R2
+ICWngTEPWX`M>PzGKzmQdh0
+R3
+R0
+w1726630865
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_gate.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_gate.v
+!i122 12
+R4
+R5
+r1
+!s85 0
+31
+Z17 !s108 1726630895.000000
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_gate.v|
+!i113 1
+R7
+R8
+vmux2to1_tb
+R16
+!i10b 1
+!s100 m3BEVNYG;M8<ORnVPN9Q20
+R2
+Im`ogfm=gF?2O0[Zo87NIc2
+R3
+R0
+w1726630871
+8E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_tb.v
+FE:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_tb.v
+!i122 11
+L0 2 25
+R5
+r1
+!s85 0
+31
+R17
+!s107 E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex2/multiplexer/mux2to1_tb.v|
+!i113 1
+R7
+R8

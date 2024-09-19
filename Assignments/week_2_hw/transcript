@@ -1,0 +1,58 @@
+# Compile of ex1.v was successful.
+# Compile of ex1_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.ex1
+# vsim work.ex1 
+# Start time: 18:51:56 on Sep 19,2024
+# Loading work.ex1
+add wave sim:/ex1/*
+run -all
+# Break key hit
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 18:52:47 on Sep 19,2024, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 5
+vsim work.ex1_tb
+# vsim work.ex1_tb 
+# Start time: 18:52:49 on Sep 19,2024
+# Loading work.ex1_tb
+# Loading work.ex1
+add wave sim:/ex1_tb/*
+run -all
+# a b c d | y
+# ----------------
+# 0 0 0 0 | 1
+# 0 0 0 1 | 0
+# 0 0 1 0 | 1
+# 0 0 1 1 | 1
+# 0 1 0 0 | 0
+# 0 1 1 0 | 0
+# 0 1 1 1 | 0
+# 1 0 0 0 | 1
+# 1 0 0 1 | 1
+# 1 0 1 0 | 1
+# 1 0 1 1 | 1
+# 1 1 0 0 | 1
+# 1 1 0 1 | 1
+# 1 1 1 0 | 1
+# 1 1 1 1 | 1
+# ** Note: $finish    : E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1_tb.v(34)
+#    Time: 150 ns  Iteration: 0  Instance: /ex1_tb
+# 1
+# Break in Module ex1_tb at E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week_2_hw/Ex1/ex1_tb.v line 34
