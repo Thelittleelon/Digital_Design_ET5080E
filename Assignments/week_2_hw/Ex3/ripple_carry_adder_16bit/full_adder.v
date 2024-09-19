@@ -5,6 +5,6 @@ module full_adder (
 
 
     assign Sum = A ^ B ^ Cin;  
-    assign Cout = (A & B) | (Cin & (A ^ B)); 
+    assign Cout = (A & B) | (Cin & A) | (Cin & B);
 
 endmodule
