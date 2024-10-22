@@ -1,0 +1,78 @@
+{E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/4_bit_comparator/comparator_4bit.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/4_bit_comparator/comparator_4bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_4bit
+
+Top level modules:
+	comparator_4bit
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_gray_counter/tb_n_bit_gray_counter.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_gray_counter/tb_n_bit_gray_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_n_bit_gray_counter
+
+Top level modules:
+	tb_n_bit_gray_counter
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/4_bit_comparator/tb_comparator_4bit.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/4_bit_comparator/tb_comparator_4bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_comparator_4bit
+
+Top level modules:
+	tb_comparator_4bit
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_full_adder/tb_nbit_full_adder.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_full_adder/tb_nbit_full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_nbit_full_adder
+
+Top level modules:
+	tb_nbit_full_adder
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_cla/tb_nbit_cla.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_cla/tb_nbit_cla.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_nbit_cla
+
+Top level modules:
+	tb_nbit_cla
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_majority/n_bit_majority.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_majority/n_bit_majority.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module n_bit_majority
+
+Top level modules:
+	n_bit_majority
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/4_bit_comparator/comparator_2bit.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/4_bit_comparator/comparator_2bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_2bit
+
+Top level modules:
+	comparator_2bit
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_majority/tb_n_bit_majority.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_majority/tb_n_bit_majority.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_n_bit_majority
+
+Top level modules:
+	tb_n_bit_majority
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_gray_counter/n_bit_gray_counter.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_gray_counter/n_bit_gray_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gray_counter
+
+Top level modules:
+	gray_counter
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_full_adder/n_bit_full_adder.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_full_adder/n_bit_full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module n_bit_full_adder
+
+Top level modules:
+	n_bit_full_adder
+
+} {} {}} {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_cla/n_bit_cla.v} {1 {vlog -work work -stats=none {E:/HoangDang/2024/HUST/2024.1/Digital Design using HDL/Assignments/week5_hw/n_bit_cla/n_bit_cla.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module n_bit_cla
+
+Top level modules:
+	n_bit_cla
+
+} {} {}}
