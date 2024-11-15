@@ -1,21 +1,18 @@
-module SRFF (
-    input S, R, clk,
-    output Q
+module sr_flip_flop (
+    input wire S,
+    input wire R,
+    input wire clk,
+    output wire Q,
+    output wire Qn
 );
-    wire S_n, R_n, Q_n;
 
-    SR_Latch sr_latch (.S(S), .R(R), .clk(clk), .Q(Q), .Q_n(Q_n));
+    wire n1, n2, n3, n4;
 
-endmodule
 
-module SR_Latch (
-    input S, R, clk,
-    output Q, Q_n
-);
-    wire S_clk, R_clk;
+    nand G1(n1, S, clk);
+    nand G2(n2, R, clk);
 
-    nand (S_clk, S, clk);
-    nand (R_clk, R, clk);
-    nand (Q, S_clk, Q_n);
-    nand (Q_n, R_clk, Q);
+    nand G3(Q, n1, Qn);
+    nand G4(Qn, n2, Q);
+
 endmodule
