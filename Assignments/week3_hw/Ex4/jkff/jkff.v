@@ -1,24 +1,24 @@
-module JKFF (
-    input J, K, clk,
-    output Q
+module jk_flip_flop (
+    input wire J,
+    input wire K,
+    input wire clk,
+    input wire reset,
+    output wire Q,
+    output wire Qn
 );
-    wire S, R, notQ;
+    wire n1, n2, n3, n4;
 
-    JK_Latch jk_latch (.J(J), .K(K), .clk(clk), .Q(Q), .notQ(notQ));
+    // Cổng NAND cho reset tín hiệu Q và Qn
+    wire Q_init, Qn_init;
+    nand G0(Q_init, reset, 1'b0); // Q = 0 khi reset
+    nand G1(Qn_init, reset, 1'b1); // Qn = 1 khi reset
 
-endmodule
+    // Cổng NAND cho JK Flip-Flop
+    nand G2(n1, J, clk, Qn);
+    nand G3(n2, K, clk, Q);
 
-module JK_Latch (
-    input J, K, clk,
-    output Q, notQ
-);
-    wire J_n, K_n, S, R;
+    // SR Latch với ưu tiên tín hiệu reset
+    nand G4(Q, n1, Qn, Q_init);
+    nand G5(Qn, n2, Q, Qn_init);
 
-    not (J_n, J);
-    not (K_n, K);
-
-    nand (S, J, notQ, clk);
-    nand (R, K, Q, clk);
-    nand (Q, S, notQ);
-    nand (notQ, R, Q);
 endmodule
