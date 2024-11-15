@@ -1,22 +1,24 @@
-module DFF (
-    input D, clk,
-    output Q
+module d_flip_flop (
+    input wire D,
+    input wire clk,
+    input wire reset,
+    output wire Q,
+    output wire Qn
 );
-    wire notQ;
+    // Internal signals for JK Flip-Flop
+    wire J, K;
 
-    D_Latch d_latch (.D(D), .clk(clk), .Q(Q), .notQ(notQ));
+    // Assign inputs for JK Flip-Flop based on D
+    assign J = D;
+    assign K = ~D;
 
-endmodule
-
-module D_Latch (
-    input D, clk,
-    output Q, notQ
-);
-    wire D_n, R, S;
-
-    not (D_n, D);
-    nand (S, D, clk);
-    nand (R, D_n, clk);
-    nand (Q, S, notQ);
-    nand (notQ, R, Q); 
+    // Instantiate JK Flip-Flop with reset
+    jk_flip_flop jkff (
+        .J(J),
+        .K(K),
+        .clk(clk),
+        .reset(reset),
+        .Q(Q),
+        .Qn(Qn)
+    );
 endmodule
